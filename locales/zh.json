@@ -1,0 +1,19 @@
+{
+  "app.title": "Haix照片修复神器",
+  "nav.pricing": "套餐价格",
+  "hero.title.line1": "欢迎来到 AI 照片",
+  "hero.title.line2": "修复器",
+  "hero.subtitle": "旧的、模糊的人像照片？让我们的 AI 来修复，让回忆继续延续。100% 免费——今天就修复你的照片。",
+  "hero.cta.restore": "开始修复",
+  "upload.title": "上传你的照片",
+  "upload.supported": "支持 JPG、PNG、WEBP；最大 10MB",
+  "restore.button": "开始修复",
+  "reset.button": "重置",
+  "need.login": "请先登录后再使用照片修复功能",
+  "original": "原始照片",
+  "restored": "修复后照片",
+  "download": "下载修复照片",
+  "usage.left": "剩余次数",
+  "guest.usage": "体验次数"
+}
+

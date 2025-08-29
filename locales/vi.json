@@ -1,0 +1,19 @@
+{
+  "app.title": "Haix khôi phục ảnh",
+  "nav.pricing": "Bảng giá",
+  "hero.title.line1": "Chào mừng tới AI Photo",
+  "hero.title.line2": "Restorer",
+  "hero.subtitle": "Ảnh cũ và mờ? Hãy để AI khôi phục để ký ức sống mãi. Hoàn toàn miễn phí.",
+  "hero.cta.restore": "Khôi phục ảnh của bạn",
+  "upload.title": "Tải ảnh lên",
+  "upload.supported": "Hỗ trợ JPG, PNG, WEBP. Tối đa 10MB",
+  "restore.button": "Khôi phục ảnh",
+  "reset.button": "Đặt lại",
+  "need.login": "Vui lòng đăng nhập để sử dụng tính năng",
+  "original": "Ảnh gốc",
+  "restored": "Ảnh đã khôi phục",
+  "download": "Tải ảnh đã khôi phục",
+  "usage.left": "Số lượt còn lại",
+  "guest.usage": "Lượt dùng thử"
+}
+

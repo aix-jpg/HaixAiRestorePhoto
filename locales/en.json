@@ -1,0 +1,19 @@
+{
+  "app.title": "Haix Photo Restorer",
+  "nav.pricing": "Pricing",
+  "hero.title.line1": "Welcome to AI Photo",
+  "hero.title.line2": "Restorer",
+  "hero.subtitle": "Have old and blurry face photos? Let our AI restore them so those memories can live on. 100% free — restore your photos today.",
+  "hero.cta.restore": "Restore your photos",
+  "upload.title": "Upload Your Photo",
+  "upload.supported": "Supported formats: JPG, PNG, WEBP. Maximum file size: 10MB",
+  "restore.button": "Restore Photo",
+  "reset.button": "Reset",
+  "need.login": "Please sign in to use the restoration feature",
+  "original": "Original Photo",
+  "restored": "Restored Photo",
+  "download": "Download Restored Photo",
+  "usage.left": "Credits left",
+  "guest.usage": "Trial uses"
+}
+
